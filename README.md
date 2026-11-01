@@ -10,9 +10,6 @@ No es un producto de predicción. Es la base metodológica detrás de los modelo
 
 
 
-\## Empieza aquí
-
-
 
 | Notebook | Qué resuelve |
 
