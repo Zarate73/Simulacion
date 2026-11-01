@@ -1,4 +1,4 @@
-\# Laboratorio de simulación estocástica
+# Laboratorio de simulación estocástica
 
 
 
